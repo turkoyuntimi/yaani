@@ -1,0 +1,24 @@
+Uri: https://www.yaani.com.tr/
+File Name: C:\Downloaded Web Sites\www.yaani.com.tr\index.htm
+Content Type: text/html
+
+Uri: https://www.yaani.com.tr/help.html
+File Name: C:\Downloaded Web Sites\www.yaani.com.tr\help.html
+Content Type: text/html
+
+Uri: https://www.yaani.com.tr/index_files/image001.jpg
+File Name: C:\Downloaded Web Sites\www.yaani.com.tr\index_files\image001.jpg
+Content Type: image/jpeg
+
+Uri: https://www.yaani.com.tr/index_files/image002.png
+File Name: C:\Downloaded Web Sites\www.yaani.com.tr\index_files\image002.png
+Content Type: image/png
+
+Uri: https://www.yaani.com.tr/index_files/image003.png
+File Name: C:\Downloaded Web Sites\www.yaani.com.tr\index_files\image003.png
+Content Type: image/png
+
+Uri: https://www.yaani.com.tr/index_files/image004.png
+File Name: C:\Downloaded Web Sites\www.yaani.com.tr\index_files\image004.png
+Content Type: image/png
+
